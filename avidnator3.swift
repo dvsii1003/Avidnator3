@@ -1,12 +1,10 @@
-// Avidnator 3 code
+// Avidnator 3 Swift code
 
 // note: specify folder options?
 
 // possibly have user input Show name, date for folder creation
 
-
 // get source directory path from user input
-
 
 // get destination directory path from user input
 
